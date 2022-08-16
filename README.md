@@ -1,5 +1,5 @@
 # [GUI] Guess the Number Game
-Project made by PyAreSquare.
+Project made by PyAreSquare. Project took 2 hours to make, with 14 total attempts. This was made with the tkinter and random modules. 100% python.
 
 ## About 📝
 This is a GUI (Graphical User Interface) version of the simple and well-known guess the number game. This was created in python and then converted into an exe format with the help of pyinstaller.
