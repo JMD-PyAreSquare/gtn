@@ -10,10 +10,10 @@ pip install pyinstaller
 ```
 in cmd.exe to get pyinstaller on your windows system.
 
-## Controlls 🕹️
-Press 'reset the game.' to reset the game. (this will make the computer choose a different number)
-
-Press 'guess the number!' to submit your guess. Every time you press this with a integer in the textbox, the number of tires will increase by 1.
+## Controls 🕹️
+- Enter your guess on what the number is in the textbox. 
+- Press 'reset the game.' to reset the game. (this will make the computer choose a different number)
+- Press 'guess the number!' to submit your guess. Every time you press this with a integer in the textbox, the number of tires will increase by 1.
 
 ## Easter Eggs 🥚
 Wich are basically hidden features that are for debugging and may be implemented in future updates.
