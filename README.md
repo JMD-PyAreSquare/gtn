@@ -1,16 +1,16 @@
-#guess the number (gui) game 1.0
+# guess the number (gui) game 1.0
 by pyaresquare.
 
-##about
+## about
 A simple gui version of the well-known guess the number
 game. 
 
-##controlls
+## controlls
 press 'reset the game.' to reset the game (this will make the computer choose a different number)
 press 'guess the number!' to submit your guess. every time you press this, the number of tires will increase by 1
 
-##easter eggs
-###I don't know if i will add more in the future)
+## easter eggs
+### I don't know if i will add more in the future)
 
 if you create a file called 
 ```
