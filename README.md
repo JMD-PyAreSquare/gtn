@@ -1,5 +1,5 @@
 # [GUI] Guess the Number Game
-###By PyAreSquare.
+### By PyAreSquare.
 
 ## About 📝
 This is a GUI (Graphical User Interface) version of the simple and well-known guess the number.
