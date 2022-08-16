@@ -13,10 +13,10 @@ in cmd.exe to get pyinstaller on your windows system.
 ## Controlls 🕹️
 Press 'reset the game.' to reset the game. (this will make the computer choose a different number)
 
-Press 'guess the number!' to submit your guess. every time you press this, the number of tires will increase by 1.
+Press 'guess the number!' to submit your guess. Every time you press this with a integer in the textbox, the number of tires will increase by 1.
 
 ## Easter Eggs 🥚
-Some hidden features for debugging and may be implemented in future updates.
+Wich are basically hidden features that are for debugging and may be implemented in future updates.
 
 if you create a file called 
 ```
@@ -32,3 +32,7 @@ max.txt in assets
 ```
 to anything but an integer and then reset the game, the bottom line
 will say 'stop messing with me.'
+## Future Updates
+I do plan on improving this project in the future - I really do! But, it gets kinda hard when all you have is a 250x110 pixel box, however, I will do my best to improve this and mayyybbee add a keypad? (perhaps?)
+- I will make it so that if you enbter the same text more than once, it will not count that as a 'try'
+- I will make it so that there is a little counter on the top of the screen which tells you what range it is in. (I will elaborate on the next release)
