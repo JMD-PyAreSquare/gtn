@@ -1,28 +1,28 @@
-# guess the number (gui) game 1.0
-by pyaresquare.
+# [GUI] Guess the Number Game
+###By PyAreSquare.
 
-## about
-A simple gui version of the well-known guess the number
-game. 
+## About 📝
+This is a GUI (Graphical User Interface) version of the simple and well-known guess the number.
 
-## controlls
-press 'reset the game.' to reset the game (this will make the computer choose a different number)
-press 'guess the number!' to submit your guess. every time you press this, the number of tires will increase by 1
+## Controlls 🕹️
+Press 'reset the game.' to reset the game. (this will make the computer choose a different number)
 
-## easter eggs
-### I don't know if i will add more in the future)
+Press 'guess the number!' to submit your guess. every time you press this, the number of tires will increase by 1.
+
+## Easter Eggs 🥚
+### I don't know if i will add more in the future
 
 if you create a file called 
 ```
-max.txt
+max.txt in the assets directory
 ```
-in the assets folder and give it an integer value like 1000, then 
-the next time you start the game (or hit reset) the maximum value (or difficulty) will be set to that
+and give it an integer value like 1000, then 
+the next time you start the game (or hit reset) the maximum value (the largest number that the computer caan randomly pick) will be set to that
 amount. 
 
-if you change the contents in 
+If you change the contents in 
 ```
-max.txt
+max.txt in assets
 ```
 to anything but an integer and then reset the game, the bottom line
 will say 'stop messing with me.'
