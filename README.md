@@ -2,7 +2,13 @@
 Project made by PyAreSquare.
 
 ## About 📝
-This is a GUI (Graphical User Interface) version of the simple and well-known guess the number.
+This is a GUI (Graphical User Interface) version of the simple and well-known guess the number game. This was created in python and then converted into an exe format with the help of pyinstaller.
+
+If you want to use pyinstaller, simple type
+```
+pip install pyinstaller
+```
+in cmd.exe to get pyinstaller on your windows system.
 
 ## Controlls 🕹️
 Press 'reset the game.' to reset the game. (this will make the computer choose a different number)
