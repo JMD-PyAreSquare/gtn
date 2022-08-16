@@ -14,7 +14,7 @@ press 'guess the number!' to submit your guess. every time you press this, the n
 
 if you create a file called 
 ```
-'max.txt'
+max.txt
 ```
 in the assets folder and give it an integer value like 1000, then 
 the next time you start the game (or hit reset) the maximum value (or difficulty) will be set to that
