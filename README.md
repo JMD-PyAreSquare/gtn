@@ -16,7 +16,7 @@ Press 'reset the game.' to reset the game. (this will make the computer choose a
 Press 'guess the number!' to submit your guess. every time you press this, the number of tires will increase by 1.
 
 ## Easter Eggs 🥚
-### I don't know if i will add more in the future
+Some hidden features for debugging and may be implemented in future updates.
 
 if you create a file called 
 ```
